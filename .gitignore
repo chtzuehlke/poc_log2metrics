@@ -1,0 +1,8 @@
+.DS_Store
+.classpath
+.project
+openmetrics2amp.rb
+outgen.rb
+target
+watch.sh
+.settings
