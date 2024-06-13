@@ -1,8 +1,8 @@
 # What
 
-This tool scans for patterns in SYSIN and provides openmetrics-like metrics with counts for pattern occurrences. 
+This tool looks for patterns in lines coming from system in and provides metrics via an openmetrics-like endpoint with count statistics for pattern occurrences. 
 
-This is pre-aplha code and should not really be used at the moment ;-)
+This is pre-alpha code and should not really be used at the moment ;-)
 
 # Sample
 
